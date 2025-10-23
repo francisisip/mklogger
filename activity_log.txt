@@ -30,3 +30,71 @@
 [2025-10-23 17:01:52.838] Backspaces: 0
 [2025-10-23 17:01:52.838] === LOGGING STOPPED ===
 
+[2025-10-23 17:11:21.015] === LOGGING STARTED ===
+[2025-10-23 17:11:21.933] Mouse started moving
+[2025-10-23 17:11:24.045] Mouse stopped moving (duration: 1.597s)
+[2025-10-23 17:11:25.839] Mouse started moving
+[2025-10-23 17:11:27.919] Mouse stopped moving (duration: 1.523s)
+[2025-10-23 17:11:29.877] Mouse started moving
+[2025-10-23 17:11:30.573] Mouse stopped moving (duration: 0.090s)
+[2025-10-23 17:11:35.773] Key pressed: cmd
+[2025-10-23 17:11:35.906] Key pressed: space
+[2025-10-23 17:11:37.030] Key pressed: h
+[2025-10-23 17:11:37.123] Key pressed: e
+[2025-10-23 17:11:37.266] Key pressed: l
+[2025-10-23 17:11:37.389] Key pressed: l
+[2025-10-23 17:11:37.525] Key pressed: o
+[2025-10-23 17:11:37.718] Key pressed: shift
+[2025-10-23 17:11:37.782] Key pressed: !
+[2025-10-23 17:11:40.187] Key pressed: esc
+[2025-10-23 17:11:41.199] Mouse started moving
+[2025-10-23 17:11:44.650] Mouse stopped moving (duration: 2.881s)
+[2025-10-23 17:11:45.002] Key pressed: esc
+[2025-10-23 17:11:49.322] Total time active: 9.229 seconds
+[2025-10-23 17:11:49.323] Total mouse movement time: 6.091 seconds
+[2025-10-23 17:11:49.323] Left clicks: 0
+[2025-10-23 17:11:49.323] Right clicks: 0
+[2025-10-23 17:11:49.323] Backspaces: 0
+[2025-10-23 17:11:49.323] === LOGGING STOPPED ===
+
+[2025-10-23 17:11:58.749] === LOGGING STARTED ===
+[2025-10-23 17:11:59.746] Mouse started moving
+[2025-10-23 17:12:00.562] Mouse stopped moving (duration: 0.254s)
+[2025-10-23 17:12:03.411] No key activity recorded.
+[2025-10-23 17:12:03.411] Total mouse movement time: 0.254 seconds
+[2025-10-23 17:12:03.411] Left clicks: 0
+[2025-10-23 17:12:03.411] Right clicks: 0
+[2025-10-23 17:12:03.411] Backspaces: 0
+[2025-10-23 17:12:03.411] === LOGGING STOPPED ===
+
+[2025-10-23 17:14:33.034] === LOGGING STARTED ===
+[2025-10-23 17:14:36.222] Mouse started moving
+[2025-10-23 17:14:38.303] Mouse stopped moving (duration: 1.553s)
+[2025-10-23 17:14:39.378] Total time active: 1.553 seconds
+[2025-10-23 17:14:39.378] Total mouse movement time: 1.553 seconds
+[2025-10-23 17:14:39.378] Left clicks: 0
+[2025-10-23 17:14:39.378] Right clicks: 0
+[2025-10-23 17:14:39.378] Backspaces: 0
+[2025-10-23 17:14:39.378] === LOGGING STOPPED ===
+
+[2025-10-23 17:14:45.940] === LOGGING STARTED ===
+[2025-10-23 17:14:46.920] Mouse started moving
+[2025-10-23 17:14:48.512] Mouse stopped moving (duration: 0.987s)
+[2025-10-23 17:14:57.603] Key pressed: b
+[2025-10-23 17:14:58.482] Total time active: 10.683 seconds
+[2025-10-23 17:14:58.482] Total mouse movement time: 0.987 seconds
+[2025-10-23 17:14:58.482] Left clicks: 0
+[2025-10-23 17:14:58.482] Right clicks: 0
+[2025-10-23 17:14:58.483] Backspaces: 0
+[2025-10-23 17:14:58.483] === LOGGING STOPPED ===
+
+[2025-10-23 17:15:42.187] === LOGGING STARTED ===
+[2025-10-23 17:15:43.870] Mouse started moving
+[2025-10-23 17:15:46.527] Mouse stopped moving (duration: 2.091s)
+[2025-10-23 17:15:49.254] Total time active: 2.091 seconds
+[2025-10-23 17:15:49.254] Total mouse movement time: 2.091 seconds
+[2025-10-23 17:15:49.254] Left clicks: 0
+[2025-10-23 17:15:49.254] Right clicks: 0
+[2025-10-23 17:15:49.254] Backspaces: 0
+[2025-10-23 17:15:49.254] === LOGGING STOPPED ===
+
