@@ -98,3 +98,1434 @@
 [2025-10-23 17:15:49.254] Backspaces: 0
 [2025-10-23 17:15:49.254] === LOGGING STOPPED ===
 
+[2025-10-23 17:21:24.633] === LOGGING STARTED ===
+[2025-10-23 17:21:25.253] Mouse started moving
+[2025-10-23 17:21:27.384] Mouse stopped moving (duration: 1.480s)
+[2025-10-23 17:21:28.102] Mouse scrolled: UP
+[2025-10-23 17:21:28.110] Mouse scrolled: UP
+[2025-10-23 17:21:28.119] Mouse scrolled: UP
+[2025-10-23 17:21:28.130] Mouse scrolled: UP
+[2025-10-23 17:21:28.136] Mouse scrolled: UP
+[2025-10-23 17:21:28.148] Mouse scrolled: UP
+[2025-10-23 17:21:28.154] Mouse scrolled: UP
+[2025-10-23 17:21:28.160] Mouse scrolled: UP
+[2025-10-23 17:21:28.171] Mouse scrolled: UP
+[2025-10-23 17:21:28.177] Mouse scrolled: UP
+[2025-10-23 17:21:28.186] Mouse scrolled: UP
+[2025-10-23 17:21:28.195] Mouse scrolled: UP
+[2025-10-23 17:21:28.212] Mouse scrolled: UP
+[2025-10-23 17:21:28.273] Mouse scrolled: UP
+[2025-10-23 17:21:28.315] Mouse scrolled: UP
+[2025-10-23 17:21:28.357] Mouse scrolled: UP
+[2025-10-23 17:21:28.407] Mouse scrolled: UP
+[2025-10-23 17:21:28.465] Mouse scrolled: UP
+[2025-10-23 17:21:28.566] Mouse scrolled: UP
+[2025-10-23 17:21:28.931] Mouse started moving
+[2025-10-23 17:21:29.497] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.504] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.512] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.520] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.546] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.828] Mouse stopped moving (duration: 0.255s)
+[2025-10-23 17:21:29.864] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.881] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.890] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.898] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.906] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.914] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.923] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.940] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.948] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.965] Mouse scrolled: DOWN
+[2025-10-23 17:21:29.973] Mouse scrolled: DOWN
+[2025-10-23 17:21:30.062] Mouse scrolled: DOWN
+[2025-10-23 17:21:30.104] Mouse scrolled: DOWN
+[2025-10-23 17:21:30.154] Mouse scrolled: DOWN
+[2025-10-23 17:21:30.213] Mouse scrolled: DOWN
+[2025-10-23 17:21:30.298] Mouse started moving
+[2025-10-23 17:21:30.987] Mouse scrolled: DOWN
+[2025-10-23 17:21:30.997] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.004] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.013] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.021] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.029] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.031] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.048] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.070] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.090] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.112] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.131] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.140] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.148] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.164] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.173] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.181] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.190] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.198] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.206] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.213] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.221] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.229] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.237] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.246] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.254] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.256] Mouse stopped moving (duration: 0.281s)
+[2025-10-23 17:21:31.262] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.271] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.279] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.287] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.296] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.304] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.312] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.321] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.329] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.338] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.346] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.354] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.362] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.387] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.421] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.454] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.487] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.529] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.571] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.621] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.687] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.748] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.761] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.765] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.771] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.773] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.780] Mouse scrolled: DOWN
+[2025-10-23 17:21:31.781] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.788] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.790] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.795] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.798] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.805] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.813] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.821] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.830] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.838] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.847] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.855] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.863] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.872] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.880] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.889] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.897] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.905] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.914] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.922] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.930] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.939] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.947] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.955] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.963] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.972] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.980] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.988] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:31.997] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.005] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.013] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.022] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.030] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.038] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.047] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.055] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.064] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.072] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.080] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.089] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.097] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.105] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.114] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.122] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.130] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.138] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.147] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.155] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.163] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.171] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.180] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.188] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.196] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.205] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.213] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.221] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.230] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.239] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.247] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.255] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.264] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.272] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.280] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.288] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.297] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.305] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.313] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.322] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.330] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.339] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.347] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.355] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.363] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.372] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.380] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.388] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.397] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.405] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.414] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.421] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.430] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.439] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.447] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.455] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.464] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.472] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.497] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.530] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.538] Mouse scrolled: LEFT
+[2025-10-23 17:21:32.563] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.597] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.639] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:21:32.680] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.730] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.780] Mouse scrolled: LEFT
+[2025-10-23 17:21:32.797] Mouse scrolled: DOWN
+[2025-10-23 17:21:32.898] Mouse scrolled: DOWN
+[2025-10-23 17:21:36.593] Key pressed: 9
+[2025-10-23 17:21:37.305] Mouse started moving
+[2025-10-23 17:21:38.656] Mouse scrolled: DOWN
+[2025-10-23 17:21:38.687] Mouse scrolled: DOWN
+[2025-10-23 17:21:39.003] Mouse stopped moving (duration: 1.077s)
+[2025-10-23 17:21:41.103] Total time active: 11.340 seconds
+[2025-10-23 17:21:41.103] Total mouse movement time: 3.093 seconds
+[2025-10-23 17:21:41.103] Left clicks: 0
+[2025-10-23 17:21:41.103] Right clicks: 0
+[2025-10-23 17:21:41.103] Backspaces: 0
+[2025-10-23 17:21:41.103] Scrolls up: 19
+[2025-10-23 17:21:41.104] Scrolls down: 170
+[2025-10-23 17:21:41.104] Scrolls left: 61
+[2025-10-23 17:21:41.104] Scrolls right: 0
+[2025-10-23 17:21:41.104] === LOGGING STOPPED ===
+
+[2025-10-23 17:21:54.917] === LOGGING STARTED ===
+[2025-10-23 17:21:58.177] Mouse scrolled: UP
+[2025-10-23 17:21:58.206] Mouse scrolled: UP
+[2025-10-23 17:21:58.239] Mouse scrolled: UP
+[2025-10-23 17:21:59.610] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.627] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.631] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.646] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.664] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.681] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.712] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.745] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.789] Mouse scrolled: DOWN
+[2025-10-23 17:21:59.831] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.127] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.147] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.163] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.189] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.348] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.364] Mouse scrolled: RIGHT
+[2025-10-23 17:22:00.389] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.423] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.439] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.456] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.465] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.478] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.485] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.495] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.504] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.511] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.519] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.526] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.536] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.543] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.553] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.562] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.587] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.618] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.652] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.687] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.727] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.778] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.836] Mouse scrolled: DOWN
+[2025-10-23 17:22:00.919] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.236] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.573] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.581] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.585] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.589] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.597] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.605] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.614] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.622] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.630] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.639] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.647] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.655] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.664] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.672] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.680] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.689] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.697] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.705] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.713] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.722] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.730] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.739] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.747] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.755] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.764] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.772] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.780] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.788] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.797] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.805] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.814] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.822] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.830] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.838] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.847] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.855] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.863] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.872] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.880] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.888] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.897] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.905] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.913] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.922] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.930] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.938] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.947] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.955] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.963] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.972] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.980] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.988] Mouse scrolled: DOWN
+[2025-10-23 17:22:01.997] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.005] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.013] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.022] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.030] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.038] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.047] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.055] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.063] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.089] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.122] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.155] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.188] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.230] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.272] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.322] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.388] Mouse scrolled: DOWN
+[2025-10-23 17:22:02.506] Mouse scrolled: DOWN
+[2025-10-23 17:22:04.433] No key activity recorded.
+[2025-10-23 17:22:04.434] Total mouse movement time: 0.000 seconds
+[2025-10-23 17:22:04.434] Left clicks: 0
+[2025-10-23 17:22:04.434] Right clicks: 0
+[2025-10-23 17:22:04.434] Backspaces: 0
+[2025-10-23 17:22:04.434] Scrolls up: 3
+[2025-10-23 17:22:04.434] Scrolls down: 110
+[2025-10-23 17:22:04.434] Scrolls left: 0
+[2025-10-23 17:22:04.434] Scrolls right: 1
+[2025-10-23 17:22:04.434] === LOGGING STOPPED ===
+
+[2025-10-23 17:24:20.494] === LOGGING STARTED ===
+[2025-10-23 17:24:22.430] Mouse scrolled: DOWN
+[2025-10-23 17:24:22.458] Mouse scrolled: DOWN
+[2025-10-23 17:24:22.459] Mouse scrolled: DOWN
+[2025-10-23 17:24:22.480] Mouse scrolled: DOWN
+[2025-10-23 17:24:22.492] Mouse scrolled: DOWN
+[2025-10-23 17:24:22.521] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.643] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.651] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.655] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.659] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.663] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.668] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:24:25.672] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.688] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.688] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.691] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.700] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.708] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.716] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.724] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.733] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.741] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.750] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.758] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.766] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.775] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.783] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.791] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.799] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.808] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.816] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.825] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.833] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.841] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.850] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.858] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.866] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.875] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.883] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.891] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.900] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.908] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.915] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.925] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.933] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.941] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.949] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.958] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.966] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.975] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.983] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.991] Mouse scrolled: DOWN
+[2025-10-23 17:24:25.999] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.008] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.016] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.024] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.033] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.041] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.050] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.057] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.066] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.074] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.083] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.091] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.100] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.108] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.115] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.125] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.133] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.141] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.150] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.158] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.183] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.208] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.241] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.275] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.308] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.350] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.391] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.441] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.526] Mouse scrolled: DOWN
+[2025-10-23 17:24:26.776] Mouse scrolled: DOWN
+[2025-10-23 17:24:27.827] Total time active: 4.445 seconds
+[2025-10-23 17:24:27.828] Total mouse movement time: 0.000 seconds
+[2025-10-23 17:24:27.828] Left clicks: 0
+[2025-10-23 17:24:27.828] Right clicks: 0
+[2025-10-23 17:24:27.828] Backspaces: 0
+[2025-10-23 17:24:27.828] Scrolls up: 0
+[2025-10-23 17:24:27.828] Scrolls down: 82
+[2025-10-23 17:24:27.828] Scrolls left: 1
+[2025-10-23 17:24:27.828] Scrolls right: 0
+[2025-10-23 17:24:27.828] === LOGGING STOPPED ===
+
+[2025-10-23 17:37:32.129] === LOGGING STARTED ===
+[2025-10-23 17:37:33.510] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.535] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.547] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.564] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.585] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.610] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.643] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.676] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.710] Mouse scrolled: DOWN
+[2025-10-23 17:37:33.747] Mouse scrolled: DOWN
+[2025-10-23 17:37:35.190] Key pressed: cmd
+[2025-10-23 17:37:35.310] Key pressed: space
+[2025-10-23 17:37:35.759] Key pressed: a
+[2025-10-23 17:37:35.897] Key pressed: b
+[2025-10-23 17:37:36.028] Key pressed: c
+[2025-10-23 17:37:37.088] Key pressed: esc
+[2025-10-23 17:37:37.862] Mouse started moving
+[2025-10-23 17:37:37.986] Mouse click: LEFT
+[2025-10-23 17:37:39.526] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.543] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.551] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.560] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.568] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.583] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.584] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.593] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.601] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.618] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.643] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.668] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.685] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.693] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.701] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.711] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.718] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.726] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.735] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.751] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.766] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.774] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.782] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.790] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.796] Mouse stopped moving (duration: 1.382s)
+[2025-10-23 17:37:39.798] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.807] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.832] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.864] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.896] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.931] Mouse scrolled: DOWN
+[2025-10-23 17:37:39.972] Mouse scrolled: DOWN
+[2025-10-23 17:37:40.014] Mouse scrolled: DOWN
+[2025-10-23 17:37:40.064] Mouse scrolled: DOWN
+[2025-10-23 17:37:40.131] Mouse scrolled: DOWN
+[2025-10-23 17:37:40.240] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.543] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:37:41.547] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.551] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:37:41.555] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.560] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:37:41.564] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:37:41.568] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.581] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.583] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.591] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.600] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.609] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.617] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.625] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.633] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.642] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.650] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.658] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.666] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.675] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.683] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.692] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.700] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.709] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.717] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.725] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.734] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.742] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.750] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.758] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.767] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.775] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.783] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.792] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.800] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.809] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.817] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.825] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.834] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.842] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.850] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.859] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.867] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.875] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.884] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.892] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.900] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.909] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.917] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.925] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.934] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.942] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.950] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.959] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.967] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.975] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.984] Mouse scrolled: DOWN
+[2025-10-23 17:37:41.992] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.000] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.009] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.017] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.025] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.034] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.042] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.050] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.059] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.066] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.075] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.084] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.092] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.100] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.109] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.117] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.125] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.134] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.142] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.150] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.159] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.167] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.175] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.183] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.192] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.200] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.208] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.216] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.225] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.233] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.241] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.250] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.259] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.267] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.275] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.300] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.333] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.367] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.400] Mouse scrolled: DOWN
+[2025-10-23 17:37:42.463] Mouse started moving
+[2025-10-23 17:37:43.880] Mouse stopped moving (duration: 0.815s)
+[2025-10-23 17:37:46.838] Total mouse movement time: 2.197 seconds
+[2025-10-23 17:37:46.838] Total mouse clicks: 1
+[2025-10-23 17:37:46.838] Total mouse scrolls: 145
+[2025-10-23 17:37:46.839] Total duration: 9.809 seconds
+[2025-10-23 17:37:46.839] Total backspaces: 0
+[2025-10-23 17:37:47.385] Mouse started moving
+[2025-10-23 17:37:48.787] Mouse stopped moving (duration: 0.715s)
+[2025-10-23 17:37:50.526] Mouse started moving
+[2025-10-23 17:37:53.486] Mouse stopped moving (duration: 2.363s)
+[2025-10-23 17:37:53.539] Mouse started moving
+[2025-10-23 17:37:54.514] Mouse stopped moving (duration: 0.280s)
+[2025-10-23 17:37:58.204] Total mouse movement time: 5.555 seconds
+[2025-10-23 17:37:58.204] Total mouse clicks: 1
+[2025-10-23 17:37:58.204] Total mouse scrolls: 145
+[2025-10-23 17:37:58.205] Total duration: 20.349 seconds
+[2025-10-23 17:37:58.205] Total backspaces: 0
+[2025-10-23 17:38:00.656] Mouse started moving
+[2025-10-23 17:38:02.663] Key pressed: ctrl
+[2025-10-23 17:38:02.734] Key pressed: c
+[2025-10-23 17:38:02.739] Total mouse movement time: 5.555 seconds
+[2025-10-23 17:38:02.740] Total mouse clicks: 1
+[2025-10-23 17:38:02.740] Total mouse scrolls: 145
+[2025-10-23 17:38:02.740] Total duration: 29.264 seconds
+[2025-10-23 17:38:02.740] Total backspaces: 0
+[2025-10-23 17:38:24.883] === LOGGING STARTED ===
+[2025-10-23 17:38:25.389] Mouse started moving
+[2025-10-23 17:38:26.206] Mouse stopped moving (duration: 0.262s)
+[2025-10-23 17:38:26.799] Total mouse movement time: 0.262 seconds
+[2025-10-23 17:38:26.799] Total mouse clicks: 0
+[2025-10-23 17:38:26.799] Total mouse scrolls: 0
+[2025-10-23 17:38:26.799] Total duration: 0.262 seconds
+[2025-10-23 17:38:26.799] Total backspaces: 0
+[2025-10-23 17:39:19.014] === LOGGING STARTED ===
+[2025-10-23 17:39:21.905] Key pressed: ctrl
+[2025-10-23 17:39:21.980] Key pressed: c
+[2025-10-23 17:39:21.984] Total mouse movement time: 0.000 seconds
+[2025-10-23 17:39:21.985] Total mouse clicks: 0
+[2025-10-23 17:39:21.985] Total mouse scrolls: 0
+[2025-10-23 17:39:21.985] Total duration: 0.075 seconds
+[2025-10-23 17:39:21.985] Total backspaces: 0
+[2025-10-23 17:39:37.410] === LOGGING STARTED ===
+[2025-10-23 17:39:39.810] Mouse started moving
+[2025-10-23 17:39:41.862] Mouse stopped moving (duration: 1.507s)
+[2025-10-23 17:39:41.885] Mouse started moving
+[2025-10-23 17:39:43.495] Mouse stopped moving (duration: 1.096s)
+[2025-10-23 17:39:44.417] Total mouse movement time: 2.602 seconds
+[2025-10-23 17:39:44.418] Total mouse clicks: 0
+[2025-10-23 17:39:44.418] Total mouse scrolls: 0
+[2025-10-23 17:39:44.418] Total duration: 3.171 seconds
+[2025-10-23 17:39:44.418] Total backspaces: 0
+[2025-10-23 17:39:44.418] SUMMARY (CSV): 2.602,0,0,0:00:03.170709,0
+[2025-10-23 17:39:44.418] === LOGGING STOPPED ===
+
+[2025-10-23 17:40:42.439] === LOGGING STARTED ===
+[2025-10-23 17:40:43.691] Mouse started moving
+[2025-10-23 17:40:44.621] Mouse stopped moving (duration: 0.286s)
+[2025-10-23 17:40:45.357] Total mouse movement time: 0.286 seconds
+[2025-10-23 17:40:45.357] Total mouse clicks: 0
+[2025-10-23 17:40:45.357] Total mouse scrolls: 0
+[2025-10-23 17:40:45.357] Total duration: 0.286 seconds
+[2025-10-23 17:40:45.357] Total backspaces: 0
+[2025-10-23 17:40:45.357] SUMMARY (CSV): 0.286,0,0,0.286,0
+[2025-10-23 17:40:45.357] === LOGGING STOPPED ===
+
+[2025-10-23 17:41:25.925] === LOGGING STARTED ===
+[2025-10-23 17:41:27.812] Mouse started moving
+[2025-10-23 17:41:29.372] Mouse stopped moving (duration: 0.896s)
+[2025-10-23 17:41:30.015] Total mouse movement time: 0.896 seconds
+[2025-10-23 17:41:30.015] Total mouse clicks: 0
+[2025-10-23 17:41:30.015] Total mouse scrolls: 0
+[2025-10-23 17:41:30.015] Total duration: 0.896 seconds
+[2025-10-23 17:41:30.015] Total backspaces: 0
+[2025-10-23 17:41:30.016] SUMMARY (CSV): 0.896,0,0,0.896,0
+[2025-10-23 17:41:30.016] === LOGGING STOPPED ===
+
+[2025-10-23 17:42:57.196] === LOGGING STARTED ===
+[2025-10-23 17:42:57.632] Total mouse movement time: 0.000 seconds
+[2025-10-23 17:42:57.632] Total mouse clicks: 0
+[2025-10-23 17:42:57.632] Total mouse scrolls: 0
+[2025-10-23 17:42:59.326] Mouse started moving
+[2025-10-23 17:43:00.870] Mouse click: LEFT
+[2025-10-23 17:43:01.078] Mouse click: LEFT
+[2025-10-23 17:43:01.449] Mouse stopped moving (duration: 1.548s)
+[2025-10-23 17:43:01.466] Mouse started moving
+[2025-10-23 17:43:01.718] Key pressed: shift
+[2025-10-23 17:43:02.248] Mouse click: LEFT
+[2025-10-23 17:43:02.591] Key pressed: backspace
+[2025-10-23 17:43:02.868] Mouse stopped moving (duration: 0.757s)
+[2025-10-23 17:43:04.240] Total mouse movement time: 2.304 seconds
+[2025-10-23 17:43:04.240] Total mouse clicks: 3
+[2025-10-23 17:43:04.240] Total mouse scrolls: 0
+[2025-10-23 17:43:05.322] Mouse started moving
+[2025-10-23 17:43:05.963] Mouse click: LEFT
+[2025-10-23 17:43:06.730] Mouse click: LEFT
+[2025-10-23 17:43:57.967] === LOGGING STARTED ===
+[2025-10-23 17:43:59.047] Total mouse movement time: 0.000 seconds
+[2025-10-23 17:43:59.047] Total mouse clicks: 0
+[2025-10-23 17:43:59.047] Total mouse scrolls: 0
+[2025-10-23 17:43:59.047] Total duration: 0.000 seconds
+[2025-10-23 17:43:59.047] Total backspaces: 0
+[2025-10-23 17:43:59.047] SUMMARY (CSV): 0.000,0,0,0.000,0
+[2025-10-23 17:43:59.047] === LOGGING STOPPED ===
+
+[2025-10-23 17:44:08.838] === LOGGING STARTED ===
+[2025-10-23 17:44:10.760] Mouse scrolled: UP
+[2025-10-23 17:44:10.778] Mouse scrolled: UP
+[2025-10-23 17:44:10.781] Mouse scrolled: UP
+[2025-10-23 17:44:10.786] Mouse scrolled: UP
+[2025-10-23 17:44:10.807] Mouse scrolled: UP
+[2025-10-23 17:44:10.813] Mouse scrolled: UP
+[2025-10-23 17:44:10.829] Mouse scrolled: UP
+[2025-10-23 17:44:10.837] Mouse scrolled: UP
+[2025-10-23 17:44:10.873] Mouse scrolled: UP
+[2025-10-23 17:44:10.929] Mouse scrolled: UP
+[2025-10-23 17:44:10.986] Mouse scrolled: UP
+[2025-10-23 17:44:11.149] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.156] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.164] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.173] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.181] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.189] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.198] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.206] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.212] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.214] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.218] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.223] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.228] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.237] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.245] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.253] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.260] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.270] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.279] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.286] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.293] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.303] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.312] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.320] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.327] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.336] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.346] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.353] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.361] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.370] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.378] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.387] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.395] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.404] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.413] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.421] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.429] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.437] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.445] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.453] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.461] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.470] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.479] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.488] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.495] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.504] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.512] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.521] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.529] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.537] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.546] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.554] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.562] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.570] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.595] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.626] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.659] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.693] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.734] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.776] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.826] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.893] Mouse scrolled: DOWN
+[2025-10-23 17:44:11.994] Mouse scrolled: DOWN
+[2025-10-23 17:44:12.760] Key pressed: cmd
+[2025-10-23 17:44:12.844] Key pressed: space
+[2025-10-23 17:44:13.022] Key pressed: a
+[2025-10-23 17:44:13.154] Key pressed: b
+[2025-10-23 17:44:13.253] Key pressed: c
+[2025-10-23 17:44:13.866] Key pressed: esc
+[2025-10-23 17:44:14.906] Mouse started moving
+[2025-10-23 17:44:15.395] Key pressed: cmd
+[2025-10-23 17:44:15.507] Key pressed: space
+[2025-10-23 17:44:15.733] Mouse stopped moving (duration: 0.295s)
+[2025-10-23 17:44:16.020] Key pressed: cmd
+[2025-10-23 17:44:16.404] Key pressed: cmd
+[2025-10-23 17:44:16.459] Key pressed: space
+[2025-10-23 17:44:16.690] Key pressed: a
+[2025-10-23 17:44:16.922] Key pressed: b
+[2025-10-23 17:44:17.153] Key pressed: c
+[2025-10-23 17:44:17.511] Key pressed: backspace
+[2025-10-23 17:44:17.649] Key pressed: backspace
+[2025-10-23 17:44:17.787] Key pressed: backspace
+[2025-10-23 17:44:18.007] Key pressed: backspace
+[2025-10-23 17:44:18.605] Mouse started moving
+[2025-10-23 17:44:20.216] Mouse stopped moving (duration: 1.002s)
+[2025-10-23 17:44:22.299] Total mouse movement time: 1.296 seconds
+[2025-10-23 17:44:22.299] Total mouse clicks: 0
+[2025-10-23 17:44:22.299] Total mouse scrolls: 74
+[2025-10-23 17:44:22.299] Total duration: 8.854 seconds
+[2025-10-23 17:44:22.299] Total backspaces: 4
+[2025-10-23 17:44:22.299] SUMMARY (CSV): 1.296,0,74,8.854,4
+[2025-10-23 17:44:22.299] === LOGGING STOPPED ===
+
+[2025-10-23 17:44:36.608] === LOGGING STARTED ===
+[2025-10-23 17:44:38.322] Mouse started moving
+[2025-10-23 17:44:40.005] Mouse stopped moving (duration: 1.037s)
+[2025-10-23 17:44:40.185] Key pressed: cmd
+[2025-10-23 17:44:40.325] Key pressed: space
+[2025-10-23 17:44:40.693] Key pressed: cmd
+[2025-10-23 17:44:40.785] Key pressed: space
+[2025-10-23 17:44:41.000] Key pressed: a
+[2025-10-23 17:44:41.112] Key pressed: b
+[2025-10-23 17:44:41.263] Key pressed: c
+[2025-10-23 17:44:42.412] Key pressed: space
+[2025-10-23 17:44:42.549] Key pressed: space
+[2025-10-23 17:44:42.693] Key pressed: space
+[2025-10-23 17:44:42.916] Key pressed: backspace
+[2025-10-23 17:44:43.048] Key pressed: backspace
+[2025-10-23 17:44:43.171] Key pressed: backspace
+[2025-10-23 17:44:43.294] Key pressed: backspace
+[2025-10-23 17:44:43.416] Key pressed: backspace
+[2025-10-23 17:44:43.544] Key pressed: backspace
+[2025-10-23 17:44:43.677] Key pressed: backspace
+[2025-10-23 17:44:58.617] Total mouse movement time: 1.037 seconds
+[2025-10-23 17:44:58.617] Total mouse clicks: 0
+[2025-10-23 17:44:58.617] Total mouse scrolls: 0
+[2025-10-23 17:44:58.617] Total duration: 5.355 seconds
+[2025-10-23 17:44:58.617] Total backspaces: 7
+[2025-10-23 17:44:58.617] SUMMARY (CSV): 1.037,0,0,5.355,7
+[2025-10-23 17:44:58.617] === LOGGING STOPPED ===
+
+[2025-10-23 17:45:08.921] === LOGGING STARTED ===
+[2025-10-23 17:45:09.994] Mouse started moving
+[2025-10-23 17:45:12.470] Mouse stopped moving (duration: 1.967s)
+[2025-10-23 17:45:14.101] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.110] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.118] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.136] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.139] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.147] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.151] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.156] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.165] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.173] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.181] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.190] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.198] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.207] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.215] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.224] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.232] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.240] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.248] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.257] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.264] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.274] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.282] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.290] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.299] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.307] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.315] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.324] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.332] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.339] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.348] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.357] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.364] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.373] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.382] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.390] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.398] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.407] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.415] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.423] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.432] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.440] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.449] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.457] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.464] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.473] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.482] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.507] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.540] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.573] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.607] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.648] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.690] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.740] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.807] Mouse scrolled: DOWN
+[2025-10-23 17:45:14.916] Mouse scrolled: DOWN
+[2025-10-23 17:45:20.152] Mouse scrolled: DOWN
+[2025-10-23 17:45:20.160] Mouse scrolled: DOWN
+[2025-10-23 17:45:20.168] Mouse scrolled: DOWN
+[2025-10-23 17:45:20.176] Mouse scrolled: DOWN
+[2025-10-23 17:45:20.208] Mouse scrolled: DOWN
+[2025-10-23 17:45:20.255] Mouse scrolled: DOWN
+[2025-10-23 17:45:20.887] Total mouse movement time: 1.967 seconds
+[2025-10-23 17:45:20.887] Total mouse clicks: 0
+[2025-10-23 17:45:20.887] Total mouse scrolls: 62
+[2025-10-23 17:45:20.887] Total duration: 10.303 seconds
+[2025-10-23 17:45:20.887] Total backspaces: 0
+[2025-10-23 17:45:20.887] SUMMARY (CSV): 1.967,0,62,10.303,0
+[2025-10-23 17:45:20.888] === LOGGING STOPPED ===
+
+[2025-10-23 17:45:24.792] === LOGGING STARTED ===
+[2025-10-23 17:45:26.396] Key pressed: cmd
+[2025-10-23 17:45:26.516] Key pressed: space
+[2025-10-23 17:45:26.833] Key pressed: h
+[2025-10-23 17:45:26.981] Key pressed: e
+[2025-10-23 17:45:27.227] Key pressed: l
+[2025-10-23 17:45:27.389] Key pressed: l
+[2025-10-23 17:45:27.710] Key pressed: o
+[2025-10-23 17:45:28.374] Key pressed: esc
+[2025-10-23 17:45:29.444] Key pressed: backspace
+[2025-10-23 17:45:29.666] Key pressed: backspace
+[2025-10-23 17:45:29.973] Key pressed: backspace
+[2025-10-23 17:45:30.775] Mouse started moving
+[2025-10-23 17:45:31.031] Mouse click: LEFT
+[2025-10-23 17:45:31.663] Mouse stopped moving (duration: 0.257s)
+[2025-10-23 17:45:32.697] Mouse scrolled: DOWN
+[2025-10-23 17:45:32.705] Mouse scrolled: DOWN
+[2025-10-23 17:45:32.714] Mouse scrolled: DOWN
+[2025-10-23 17:45:32.724] Mouse scrolled: DOWN
+[2025-10-23 17:45:32.731] Mouse scrolled: DOWN
+[2025-10-23 17:45:32.739] Mouse scrolled: DOWN
+[2025-10-23 17:45:32.747] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:45:32.769] Mouse scrolled: DOWN
+[2025-10-23 17:45:32.859] Mouse scrolled: UP
+[2025-10-23 17:45:32.871] Mouse scrolled: UP
+[2025-10-23 17:45:32.876] Mouse scrolled: UP
+[2025-10-23 17:45:32.888] Mouse scrolled: UP
+[2025-10-23 17:45:32.896] Mouse scrolled: UP
+[2025-10-23 17:45:32.901] Mouse scrolled: UP
+[2025-10-23 17:45:32.911] Mouse scrolled: UP
+[2025-10-23 17:45:32.920] Mouse scrolled: UP
+[2025-10-23 17:45:32.926] Mouse scrolled: UP
+[2025-10-23 17:45:32.936] Mouse scrolled: UP
+[2025-10-23 17:45:33.026] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.035] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.046] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.051] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.060] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.072] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.076] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.088] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.096] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.104] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.120] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.147] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.226] Mouse scrolled: UP
+[2025-10-23 17:45:33.230] Mouse scrolled: UP
+[2025-10-23 17:45:33.239] Mouse scrolled: UP
+[2025-10-23 17:45:33.247] Mouse scrolled: UP
+[2025-10-23 17:45:33.255] Mouse scrolled: UP
+[2025-10-23 17:45:33.264] Mouse scrolled: UP/LEFT
+[2025-10-23 17:45:33.272] Mouse scrolled: UP
+[2025-10-23 17:45:33.280] Mouse scrolled: UP
+[2025-10-23 17:45:33.289] Mouse scrolled: UP
+[2025-10-23 17:45:33.305] Mouse scrolled: UP
+[2025-10-23 17:45:33.339] Mouse scrolled: UP
+[2025-10-23 17:45:33.389] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.397] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.406] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.414] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.422] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.431] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.439] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.447] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.453] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.455] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.461] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.464] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.469] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.472] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.478] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.480] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.486] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.503] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.519] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.525] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.533] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.542] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.550] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.559] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.567] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.575] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.583] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.592] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.600] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.608] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.617] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.625] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.634] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.642] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.650] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.659] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.667] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.675] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.684] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.692] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.700] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.708] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.717] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.725] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.734] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.742] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.750] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.759] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.767] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.775] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.784] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.792] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.817] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.850] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.884] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.917] Mouse scrolled: DOWN
+[2025-10-23 17:45:33.958] Mouse scrolled: DOWN
+[2025-10-23 17:45:34.000] Mouse scrolled: DOWN
+[2025-10-23 17:45:34.050] Mouse scrolled: DOWN
+[2025-10-23 17:45:34.117] Mouse scrolled: DOWN
+[2025-10-23 17:45:34.252] Mouse scrolled: DOWN
+[2025-10-23 17:45:35.614] Total mouse movement time: 0.257 seconds
+[2025-10-23 17:45:35.615] Total mouse clicks: 1
+[2025-10-23 17:45:35.615] Total mouse scrolls: 104
+[2025-10-23 17:45:35.615] Total duration: 8.073 seconds
+[2025-10-23 17:45:35.615] Total backspaces: 3
+[2025-10-23 17:45:35.615] SUMMARY (CSV): 0.257,1,104,8.073,3
+[2025-10-23 17:45:35.615] === LOGGING STOPPED ===
+
+[2025-10-23 17:47:07.414] === LOGGING STARTED ===
+[2025-10-23 17:47:08.661] Key pressed: cmd
+[2025-10-23 17:47:08.721] Key pressed: space
+[2025-10-23 17:47:08.923] Key pressed: a
+[2025-10-23 17:47:09.201] Key pressed: b
+[2025-10-23 17:47:09.474] Key pressed: c
+[2025-10-23 17:47:11.110] Key pressed: esc
+[2025-10-23 17:47:11.350] Mouse started moving
+[2025-10-23 17:47:12.141] Key pressed: backspace
+[2025-10-23 17:47:12.272] Key pressed: backspace
+[2025-10-23 17:47:12.330] Mouse stopped moving (duration: 0.475s)
+[2025-10-23 17:47:12.409] Key pressed: backspace
+[2025-10-23 17:47:12.815] Mouse started moving
+[2025-10-23 17:47:13.818] Mouse click: LEFT
+[2025-10-23 17:47:14.375] Mouse stopped moving (duration: 0.987s)
+[2025-10-23 17:47:14.403] Mouse started moving
+[2025-10-23 17:47:16.420] Mouse stopped moving (duration: 1.317s)
+[2025-10-23 17:47:16.481] Key pressed: backspace
+[2025-10-23 17:47:18.654] Mouse started moving
+[2025-10-23 17:47:19.542] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.546] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.554] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.566] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.571] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.584] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.593] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.601] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.609] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.617] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.626] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.634] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.642] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.651] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.659] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.667] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.676] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.684] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.692] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.701] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.709] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.717] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.726] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.734] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.742] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.751] Mouse scrolled: DOWN
+[2025-10-23 17:47:19.825] Mouse scrolled: UP
+[2025-10-23 17:47:19.834] Mouse scrolled: UP
+[2025-10-23 17:47:19.842] Mouse scrolled: UP
+[2025-10-23 17:47:19.850] Mouse scrolled: UP
+[2025-10-23 17:47:19.858] Mouse scrolled: UP
+[2025-10-23 17:47:19.867] Mouse scrolled: UP
+[2025-10-23 17:47:19.897] Mouse stopped moving (duration: 0.591s)
+[2025-10-23 17:47:19.899] Mouse scrolled: UP
+[2025-10-23 17:47:19.907] Mouse scrolled: UP
+[2025-10-23 17:47:19.913] Mouse scrolled: UP
+[2025-10-23 17:47:19.924] Mouse scrolled: UP
+[2025-10-23 17:47:19.930] Mouse scrolled: UP
+[2025-10-23 17:47:19.940] Mouse scrolled: UP
+[2025-10-23 17:47:19.965] Mouse scrolled: UP
+[2025-10-23 17:47:20.065] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.071] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.075] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.083] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.084] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.093] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.093] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.099] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.100] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.106] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.108] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.115] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.119] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.127] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.136] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.144] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.152] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.161] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.169] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.177] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.186] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.194] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.202] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.211] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.219] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.227] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.236] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.244] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.252] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.261] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.269] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.277] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.286] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.294] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.302] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.311] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.318] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.327] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.336] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.344] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.352] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.361] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.369] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.377] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.386] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.394] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.402] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.410] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.418] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.427] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.436] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.444] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.452] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.461] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.469] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.477] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.486] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.494] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.502] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.511] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.519] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.527] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.536] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.544] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.552] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.561] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.569] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.577] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.586] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.593] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.602] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.610] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.619] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.627] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.636] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.643] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.652] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.661] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.668] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.694] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.719] Mouse scrolled: LEFT
+[2025-10-23 17:47:20.727] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.761] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.786] Mouse scrolled: LEFT
+[2025-10-23 17:47:20.794] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.835] Mouse scrolled: DOWN
+[2025-10-23 17:47:20.886] Mouse scrolled: DOWN/LEFT
+[2025-10-23 17:47:20.936] Mouse scrolled: DOWN
+[2025-10-23 17:47:21.002] Mouse scrolled: DOWN
+[2025-10-23 17:47:21.045] Mouse scrolled: LEFT
+[2025-10-23 17:47:21.112] Mouse scrolled: DOWN
+[2025-10-23 17:47:21.812] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.812] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.817] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.825] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.834] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.842] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.850] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.861] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.865] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.873] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.881] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.890] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.898] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.907] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.915] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.923] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.931] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.940] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.948] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.956] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.965] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.973] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.981] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.990] Mouse scrolled: RIGHT
+[2025-10-23 17:47:21.998] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.006] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.015] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.023] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.033] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.040] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.048] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.056] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.065] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.074] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.082] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.090] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.098] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.107] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.116] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.123] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.131] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.139] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.148] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.158] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.165] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.173] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.182] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.190] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.198] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.208] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.232] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.264] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.298] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.331] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.373] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.415] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.465] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.531] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.666] Mouse scrolled: RIGHT
+[2025-10-23 17:47:22.771] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.779] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.788] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.798] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.805] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.809] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.816] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.817] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.821] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.834] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.835] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.844] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.853] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.861] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.869] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.877] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.886] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.894] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.903] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.911] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.919] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.928] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.936] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.944] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.952] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.961] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.969] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.978] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.985] Mouse scrolled: LEFT
+[2025-10-23 17:47:22.994] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.002] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.011] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.019] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.028] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.036] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.044] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.052] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.061] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.069] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.078] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.086] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.094] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.102] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.111] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.119] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.128] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.136] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.144] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.153] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.161] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.169] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.178] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.186] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.194] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.202] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.228] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.253] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.286] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.320] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.361] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.403] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.453] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.511] Mouse scrolled: LEFT
+[2025-10-23 17:47:23.595] Mouse scrolled: LEFT
+[2025-10-23 17:47:25.475] Total mouse movement time: 3.370 seconds
+[2025-10-23 17:47:25.475] Total mouse clicks: 1
+[2025-10-23 17:47:25.475] Total mouse scrolls: 302
+[2025-10-23 17:47:25.475] Total duration: 15.201 seconds
+[2025-10-23 17:47:25.476] Total backspaces: 4
+[2025-10-23 17:47:25.476] SUMMARY (CSV): 3.370,1,302,15.201,4
+[2025-10-23 17:47:25.476] === LOGGING STOPPED ===
+
+[2025-10-23 17:49:41.190] === LOGGING STARTED ===
+[2025-10-23 17:49:41.612] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.620] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.628] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.639] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.645] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.649] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.655] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.657] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.664] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.665] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.670] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.676] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.684] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.692] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.700] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.709] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.717] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.726] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.734] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.742] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.751] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.758] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.767] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.776] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.784] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.792] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.800] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.809] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.817] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.826] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.834] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.842] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.851] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.858] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.867] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.876] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.884] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.892] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.901] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.909] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.917] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.926] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.933] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.942] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.950] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.959] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.967] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.976] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.984] Mouse scrolled: DOWN
+[2025-10-23 17:49:41.992] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.000] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.009] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.017] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.026] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.034] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.042] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.050] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.059] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.067] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.076] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.084] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.092] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.101] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.109] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.117] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.126] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.134] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.142] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.151] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.158] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.167] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.176] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.183] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.193] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.201] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.209] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.217] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.226] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.234] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.242] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.250] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.259] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.267] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.292] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.325] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.358] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.392] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.434] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.475] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.526] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.592] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.702] Mouse scrolled: DOWN
+[2025-10-23 17:49:42.845] Key pressed: cmd
+[2025-10-23 17:49:42.965] Key pressed: space
+[2025-10-23 17:49:43.331] Key pressed: h
+[2025-10-23 17:49:43.437] Key pressed: e
+[2025-10-23 17:49:43.559] Key pressed: l
+[2025-10-23 17:49:43.706] Key pressed: l
+[2025-10-23 17:49:43.814] Key pressed: o
+[2025-10-23 17:49:44.181] Mouse started moving
+[2025-10-23 17:49:44.890] Key pressed: backspace
+[2025-10-23 17:49:45.022] Key pressed: backspace
+[2025-10-23 17:49:45.152] Key pressed: backspace
+[2025-10-23 17:49:45.268] Mouse stopped moving (duration: 0.452s)
+[2025-10-23 17:49:45.289] Key pressed: backspace
+[2025-10-23 17:49:45.416] Key pressed: backspace
+[2025-10-23 17:49:45.538] Key pressed: backspace
+[2025-10-23 17:49:45.892] Key pressed: esc
+[2025-10-23 17:49:48.001] Mouse click: LEFT
+[2025-10-23 17:49:48.468] Mouse click: RIGHT
+[2025-10-23 17:49:49.015] Mouse started moving
+[2025-10-23 17:49:49.195] Mouse click: LEFT
+[2025-10-23 17:49:49.760] Mouse stopped moving (duration: 0.181s)
+[2025-10-23 17:49:50.956] Total mouse movement time: 0.633 seconds
+[2025-10-23 17:49:50.957] Total mouse clicks: 3
+[2025-10-23 17:49:50.957] Total mouse scrolls: 92
+[2025-10-23 17:49:50.957] Total duration: 7.591 seconds
+[2025-10-23 17:49:50.957] Total backspaces: 6
+[2025-10-23 17:49:50.957] SUMMARY (CSV): 0.633,3,92,7.591,6
+[2025-10-23 17:49:50.957] === LOGGING STOPPED ===
+
+[2025-10-23 17:53:35.055] === LOGGING STARTED ===
+[2025-10-23 17:53:37.563] Total mouse movement time: 1.092 seconds
+[2025-10-23 17:53:37.563] Total mouse clicks: 0
+[2025-10-23 17:53:37.563] Total mouse scrolls: 0
+[2025-10-23 17:53:37.563] Total duration: 1.092 seconds
+[2025-10-23 17:53:37.563] Total backspaces: 0
+[2025-10-23 17:53:37.563] SUMMARY (CSV): 1.092,0,0,1.092,0
+[2025-10-23 17:53:37.563] === LOGGING STOPPED ===
+
