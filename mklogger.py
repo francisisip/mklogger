@@ -10,6 +10,9 @@ class ActivityLogger:
         self.right_click_count = 0
         self.backspace_count = 0
         self.file_handle = None
+
+        self.first_key_time = None
+        self.last_key_time = None
         
     def log_event(self, event):
         """Log an event with timestamp"""
@@ -27,6 +30,8 @@ class ActivityLogger:
             self.left_click_count = 0
             self.right_click_count = 0
             self.backspace_count = 0 
+            self.first_key_time = None
+            self.last_key_time = None 
             self.file_handle = open(self.log_file, 'a')
             self.log_event("=== LOGGING STARTED ===")
             print("Logging started. Press F9 to stop.")
@@ -34,6 +39,12 @@ class ActivityLogger:
     def stop_logging(self):
         """Stop logging session"""
         if self.is_logging:
+            if self.first_key_time and self.last_key_time:
+                total_duration = self.last_key_time - self.first_key_time
+                self.log_event(f"Total time active: {total_duration.total_seconds():.3f} seconds")
+            else:
+                self.log_event("No key activity recorded.")
+                
             self.log_event(f"Left clicks: {self.left_click_count}")
             self.log_event(f"Right clicks: {self.right_click_count}")
             self.log_event(f"Backspaces: {self.backspace_count}")
@@ -58,6 +69,12 @@ class ActivityLogger:
                 return
             
             if self.is_logging:
+                now = datetime.now()
+                
+                if not self.first_key_time:
+                    self.first_key_time = now
+                self.last_key_time = now
+
                 if key == keyboard.Key.backspace:
                     self.backspace_count += 1
 
